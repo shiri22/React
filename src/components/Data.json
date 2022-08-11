@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "city":"Hyderabad"
+    },
+    {
+      "id": "2",
+      "city": "Warangal"
+    },
+    {
+      "id": "3",
+      "city": "Karimnagar"
+    },
+    {
+      "id": "4",
+      "city": "Jagityal"
+    },
+    {
+      "id": "5",
+      "city": "Kamareddy"
+    },
+    {
+      "id": "6",
+      "city": "Adilabad"
+    },
+    {
+      "id": "7",
+      "city": "Nizamabad"
+    },
+    {
+      "id": "8",
+      "city": "Sirisilla"
+    }
+]
